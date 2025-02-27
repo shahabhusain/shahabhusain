@@ -1,6 +1,6 @@
 # Hi, I'm Shahab Husain 👋
 
-### Frontend Developer | React | Tailwind CSS | Next.js
+### Frontend Developer | React | Next.js
 
 Welcome to my GitHub profile! I'm passionate about building beautiful, responsive, and user-friendly web applications. I specialize in modern frontend technologies and love to create seamless user experiences.
 
