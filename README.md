@@ -45,12 +45,4 @@ Welcome to my GitHub profile! I'm passionate about building beautiful, responsiv
 - **Other:** REST APIs, GraphQL, Firebase, Vercel
 
 
----
-
-## 🚀 **Recent Projects**
-1. **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
-2. **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
-
----
-
 ⭐️ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about tech!
