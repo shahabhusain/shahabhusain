@@ -30,31 +30,20 @@ Welcome to my GitHub profile! I'm passionate about building beautiful, responsiv
 ---
 
 ## 📫 **How to Reach Me...**
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio:** [Your Portfolio Website]
-- **Twitter:** [Your Twitter Handle]
+- **Email:** shahabhussain098123@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/shahab-hussain-5668a0286/
+- **Portfolio:** https://portfolio-six-omega-43.vercel.app/
 
 ---
 
 ## 😄 **Pronouns:** He/Him
 
----
-
-## ⚡ **Fun Fact:**
-I once built a fully functional e-commerce website in just 48 hours during a hackathon! 🚀
-
----
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** React, Next.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
 - **Tools:** Git, VS Code, npm/yarn, Figma, Webpack
 - **Other:** REST APIs, GraphQL, Firebase, Vercel
 
----
-
-## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahabhusain&show_icons=true&theme=radical)
 
 ---
 
